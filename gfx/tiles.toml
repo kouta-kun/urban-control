@@ -1,0 +1,6 @@
+version = "1.0"
+
+[image.background]
+filename = "tiles.png"
+tile_size = "8x8"
+transparent_colour = "00ffcd"
